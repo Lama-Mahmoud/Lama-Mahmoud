@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lama</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **flutter**
-
 - 🤝 I’m looking for help with **flutter**
 
 - 💬 Ask me about **Data structure**
